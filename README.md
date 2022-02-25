@@ -1,7 +1,10 @@
 # StopTheVirus
 StopTheVirus! is a fun game we (T.I.D.E Tech) developed during Pyjac Rebooted implementing physics and complex algorithms to create an immersive experience.  
 
-Created by Sharat Krishnan, Aditya Kumar, and Jay Patel
+Created by Aditya Kumar, Sharat Krishnan and Jay Patel
+
+Video Description:
+https://www.youtube.com/watch?v=695k2fVwIlI
 
 How the Game works
 ____________________
